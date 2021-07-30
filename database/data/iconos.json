@@ -1,0 +1,11 @@
+[
+    { "name":"fas fa-arrow-alt-circle-right ml-2"},
+    { "id":"1", "name":"fas fa-archive"},
+    { "id":"2", "name":"fas fa-map-signs"},
+    { "id":"3", "name":"fas fa-file-alt"},
+    { "id":"4", "name":"fas fa-tools"},
+    { "id":"5", "name":"fas fa-cogs fa-fw"},
+    { "id":"6", "name":"far fa-object-ungroup"}
+]
+
+
